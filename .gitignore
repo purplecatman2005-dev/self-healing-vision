@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.exe
+*.o
+*.log
+*.bak
+.venv/
+state.txt
+# build.bat が params_baseline.hpp から再生成する(自己書き換えの結果)
